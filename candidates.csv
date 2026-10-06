@@ -1,0 +1,21 @@
+candidate_id,full_name,email,degree,university,gpa,years_experience,key_skills,work_history,status
+C001,Arthit Suksawat,arthit.s@gmail.com,Industrial Engineering,KMITL,3.65,0.5,Python, SQL, Process Optimization,Intern at Schneider Electric (Procurement Digital Transformation),New
+C002,Siriporn Maneerat,siriporn.m@hotmail.com,Chemical Engineering,Chulalongkorn University,3.40,0,Excel, Data Analysis, Chemical Modeling,Fresh Graduate with petrochemical lab project experience,New
+C003,Nattawut Chaiyo,nattawut.c@yahoo.com,Mechanical Engineering,KMUTT,2.85,1.0,CAD, Maintenance Planning, HVAC,Junior Mechanical Engineer at local contractor,New
+C004,Pimchanok Wongsuwan,pimchanok.w@gmail.com,Electrical Engineering,Kasetsart University,3.75,0,Python, R, IoT Sensors,Final year project on smart grid energy distribution,New
+C005,Thanapol Kittisirikul,thanapol.k@gmail.com,Computer Engineering,Chulalongkorn University,3.50,1.5,Python, SQL, Cloud Architecture,Software Developer at tech startup,New
+C006,Chanikarn Boonsong,chanikarn.b@gmail.com,Industrial Engineering,Thammasat University,3.20,0,Lean Six Sigma, AutoCAD, Data Visualization,Quality Control Intern at automotive plant,New
+C007,Methee Prasert,methee.p@gmail.com,Petroleum Engineering,Chulalongkorn University,3.80,0,Reservoir Simulation, Python, MATLAB,Undergraduate research assistant in geothermal energy,New
+C008,Supaporn Intarasri,supaporn.i@gmail.com,Environmental Engineering,Mahidol University,3.35,0.5,Carbon Accounting, LCA, Data Analytics,Sustainability Intern at energy firm,New
+C009,Kanyarat Thongdee,kanyarat.t@gmail.com,Industrial Engineering,KMITL,3.90,0,Python, SQL, Statistical Analysis,First-class honors graduate with supply chain research project,New
+C010,Chatchai Wongla,chatchai.w@gmail.com,Mechanical Engineering,CMU,3.10,1.0,SolidWorks, Maintenance, Pipeline Inspection,Junior Field Engineer at construction firm,New
+C011,Pitchapa Suwannarat,pitchapa.s@gmail.com,Chemical Engineering,KMUTNB,3.55,0,Aspen Plus, Python, Process Control,Process simulation project for biofuel plant,New
+C012,Anusorn Srisuk,anusorn.s@gmail.com,Electrical Engineering,KMITL,3.25,0.5,Power Systems, Automation, PLC,Electrical intern at power generation facility,New
+C013,Ratchaneekorn Boonma,ratchaneekorn.b@gmail.com,Industrial Engineering,KU,3.45,0,Data Analytics, VBA, Process Improvement,Process improvement intern at manufacturing plant,New
+C014,Teerapat Jantarach,teerapat.j@gmail.com,Civil Engineering,CU,2.95,1.0,Structural Design, Project Management,Junior Site Engineer,New
+C015,Nutchapon Saelim,nutchapon.s@gmail.com,Computer Engineering,KMUTT,3.70,0.5,Python, Machine Learning, Data Pipelines,AI research assistant for smart grid forecasting,New
+C016,Panisara Phuangmalai,panisara.p@gmail.com,Industrial Engineering,TU,3.60,0,Supply Chain, Tableau, Python,Data analytics intern at logistics firm,New
+C017,Kittisak Rungroj,kittisak.r@gmail.com,Mechanical Engineering,KMITL,3.30,0,CAD, Thermodynamics, Fluid Dynamics,Capstone project on heat exchanger efficiency,New
+C018,Waraporn Kongsuk,waraporn.k@gmail.com,Chemical Engineering,Chulalongkorn University,3.85,0,Carbon Capture, Process Design, Python,Research on carbon capture materials,New
+C019,Surachai Panichkul,surachai.p@gmail.com,Electrical Engineering,Mahidol University,3.15,1.0,Smart Grid, Renewable Energy, Junior Electrical Engineer at solar farm,New
+C020,Benjamas Chanthorn,benjamas.c@gmail.com,Industrial Engineering,KMITL,3.50,0,Operations Research, Python, Excel,Operations research project on energy distribution,New

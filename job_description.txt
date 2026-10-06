@@ -1,0 +1,21 @@
+Job Title: Graduate Engineer (Digital & Energy Transition Track)
+Company: Thara Energy (Fictional Integrated Oil & Gas Company)
+
+Role Overview:
+Thara Energy is accelerating its shift toward natural gas, renewables, and low-carbon projects (carbon capture, hydrogen). We are looking for high-potential graduate engineers to join our 2-year rotational program across upstream offshore operations, refinery digital twins, and energy transition projects.
+
+Key Responsibilities:
+- Support engineering teams in monitoring and optimizing digital data pipelines, IoT sensor feeds, and production efficiency.
+- Assist in cross-functional projects focusing on carbon footprint reduction and data-driven process optimization.
+- Collaborate with senior engineers to transition legacy technical documentation into cloud-based engineering repositories.
+
+Must-Have Criteria:
+- Bachelor's degree in Engineering (Industrial, Chemical, Mechanical, Electrical, or Computer Engineering) with a minimum GPA of 3.00.
+- Strong analytical skills, proficiency in data tools (Python, SQL, or Advanced Spreadsheets).
+- Fluent in English (TOEIC 800+ or equivalent).
+- High adaptability and interest in digital transformation and energy transition.
+
+Nice-to-Have Skills:
+- Experience or coursework in renewable energy systems, carbon capture, or IoT automation.
+- Past internship in oil & gas, energy, manufacturing, or digital transformation consulting.
+- Coding or process automation skills (Python, VBA, Apps Script, or workflow tools).
